@@ -9,3 +9,5 @@ Author:MythiliArul
 3. Last screen code
 
 4. Attachments ( Image, Audio, vidoe)
+
+5. Hiding the last seen
